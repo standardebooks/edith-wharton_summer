@@ -45,8 +45,10 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A young woman has resigned to life in a stifling small town until a visiting stranger brings a wider world of possibilities.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">Published in 1917, &lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton’s&lt;/a&gt; novel, Summer, is the story of Charity Royall⁠—an ambitious young woman trapped in a stifling small town by both her gender and class. The novel was controversial at the time of publication, both for its portrayal of class in rural America and its frank acknowledgement of female sexuality. Later generations of critics have come to see the book as a powerful and incisive companion to Wharton’s classic novella, &lt;a href="https://standardebooks.org/ebooks/edith-wharton/ethan-frome"&gt;&lt;i&gt;Ethan Frome&lt;/i&gt;&lt;/a&gt;.</meta>
+		<dc:description id="description">A young woman has resigned to life in a stifling small town until a visiting stranger hints at a wider world of possibilities.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;a href=&quot;https://standardebooks.org/ebooks/edith-wharton&quot;&gt;Edith Wharton’s&lt;/a&gt; controversial novel, &lt;i&gt;Summer&lt;/i&gt;, is the story of Charity Royall⁠—an ambitious young woman trapped in a stifling small town by both her gender and social class. When a visiting stranger arrives in town, Charity is awakened to a wider world of possibilities and to the realities that constrain her.&lt;/p&gt;
+			&lt;p&gt;Published in 1917, the novel was both attacked and ignored for openly acknowledging female sexuality and its many inequities. Later generations of critics have come to regard the book as an important turning point in Wharton’s work and a spiritual companion to her classic novella, &lt;a href=&quot;https://standardebooks.org/ebooks/edith-wharton/ethan-frome&quot;&gt;&lt;i&gt;Ethan Frome&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;.</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/166</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001188226</dc:source>
