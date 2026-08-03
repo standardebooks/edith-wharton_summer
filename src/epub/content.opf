@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edith-wharton/summer</dc:identifier>
 		<dc:date>2021-01-02T23:30:19Z</dc:date>
@@ -46,11 +46,11 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young woman has resigned to life in a stifling small town until a visiting stranger hints at a wider world of possibilities.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman has resigned to life in a stifling small town until a visiting stranger hints at a wider world of possibilities.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton’s&lt;/a&gt; controversial novel &lt;i&gt;Summer&lt;/i&gt; is the story of Charity Royall, an ambitious young woman trapped in a stifling small town by both her gender and her social class. When a visiting stranger arrives in town, Charity is awakened to a wider world of possibilities and to the realities that constrain her.&lt;/p&gt;
 			&lt;p&gt;Published in 1917, the novel was both attacked and ignored for openly acknowledging female sexuality and its many inequities. Later generations of critics have come to regard the book as an important turning point in Wharton’s work and a spiritual companion to her classic novel, &lt;a href="https://standardebooks.org/ebooks/edith-wharton/ethan-frome"&gt;&lt;i&gt;Ethan Frome&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/166</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001188226</dc:source>
